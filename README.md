@@ -14,7 +14,8 @@
 
 <br/>
 
-<img src="https://mydbstudio.com/assets/showcase/scene3-monaco-explain-tree.png" alt="myDB Studio Monaco SQL Editor and Visual Explain Tree" width="850" />
+<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/9f494139-5ada-4a83-a766-043e89276505" />
+
 
 </div>
 
